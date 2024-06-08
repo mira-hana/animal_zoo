@@ -1,3 +1,5 @@
+//insert this code to animal_zoo > lib > main.dart
+
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:image_picker/image_picker.dart';
