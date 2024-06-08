@@ -13,7 +13,6 @@ This Flutter app identifies animals using a pre-trained TensorFlow Lite model. T
 
 - `lib/main.dart`: Main application code.
 - `android/app/src/main/AndroidManifest.xml`: Android configuration.
-- `android/app/src/main/java/com/example/animal_zoo/MainActivity.java`: MainActivity for Android embedding.
 - `ios/Runner/Info.plist`: iOS configuration.
 - `pubspec.yaml`: Flutter dependencies and assets.
 
