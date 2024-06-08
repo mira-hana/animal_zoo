@@ -1,3 +1,5 @@
+Insert this code to animal_zoo > pubspec.yaml
+
 name: animal_zoo
 description: "A new Flutter project."
 publish_to: 'none'
