@@ -35,6 +35,7 @@ flutter:
 
   assets:
     - assets/model_unquant.tflite
+    - assets/labels.txt
 
 ## What to do?
 
@@ -44,4 +45,3 @@ flutter:
 4. Update pubspec.yaml. Where is this thing? Go look up the attached file from this project.
 5. Update build.gradle. Where is this thing? Go look up the attached file from this project.
 6. Goodluck!
-    - assets/labels.txt
