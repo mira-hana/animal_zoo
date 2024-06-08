@@ -1,4 +1,4 @@
-//animal_zoo > android > app > build.gradle
+//Insert this code to animal_zoo > android > app > build.gradle
 
 plugins {
     id "com.android.application"
