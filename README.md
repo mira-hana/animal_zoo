@@ -24,7 +24,8 @@ This Flutter app identifies animals using a pre-trained TensorFlow Lite model. T
 3. Update 'AndroidManifest.xml'. Where is this thing? Go look up the attached file from this project.
 4. Update pubspec.yaml. Where is this thing? Go look up the attached file from this project.
 5. Update build.gradle. Where is this thing? Go look up the attached file from this project.
-6. Goodluck!
+6. Update Info.plist. Where is this thing? Go look up the attached file from this project.
+7. Goodluck!
 
 ## Changes and Updates
 
