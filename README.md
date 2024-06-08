@@ -17,6 +17,15 @@ This Flutter app identifies animals using a pre-trained TensorFlow Lite model. T
 - `ios/Runner/Info.plist`: iOS configuration.
 - `pubspec.yaml`: Flutter dependencies and assets.
 
+## What to do?
+
+1. In Flutter, create a file called assets and download the 'labels.txt' and 'model_unquant.tflite' into that file.
+2. Update 'main.dart' from this project.
+3. Update 'AndroidManifest.xml'. Where is this thing? Go look up the attached file from this project.
+4. Update pubspec.yaml. Where is this thing? Go look up the attached file from this project.
+5. Update build.gradle. Where is this thing? Go look up the attached file from this project.
+6. Goodluck!
+
 ## Changes and Updates
 
 ### 1. Flutter Dependencies
@@ -36,12 +45,3 @@ flutter:
   assets:
     - assets/model_unquant.tflite
     - assets/labels.txt
-
-## What to do?
-
-1. In Flutter, create a file called assets and download the 'labels.txt' and 'model_unquant.tflite' into that file.
-2. Update 'main.dart' from this project.
-3. Update 'AndroidManifest.xml'. Where is this thing? Go look up the attached file from this project.
-4. Update pubspec.yaml. Where is this thing? Go look up the attached file from this project.
-5. Update build.gradle. Where is this thing? Go look up the attached file from this project.
-6. Goodluck!
