@@ -35,4 +35,13 @@ flutter:
 
   assets:
     - assets/model_unquant.tflite
+
+## What to do?
+
+1. In Flutter, create a file called assets and download the 'labels.txt' and 'model_unquant.tflite' into that file.
+2. Update 'main.dart' from this project.
+3. Update 'AndroidManifest.xml'. Where is this thing? Go look up the attached file from this project.
+4. Update pubspec.yaml. Where is this thing? Go look up the attached file from this project.
+5. Update build.gradle. Where is this thing? Go look up the attached file from this project.
+6. Goodluck!
     - assets/labels.txt
