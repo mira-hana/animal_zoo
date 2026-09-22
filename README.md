@@ -6,6 +6,10 @@ The application allows users to either take a photo using their phone's camera o
 
 This project combines machine learning, mobile application development, and image classification into a practical user-facing application. The project was developed as a group project, with the model trained using an animal image dataset and subsequently integrated into a Flutter application.
 
+*Video Demo*
+
+https://youtube.com/shorts/4j9L2KxXOfo 
+
 *✨ Key Features*
 
 📷 Camera Classification – Take a photo of an animal and receive a prediction.
