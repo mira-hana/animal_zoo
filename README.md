@@ -1,14 +1,15 @@
 **🐾 Zoo Animal Identifier**
+
 A Flutter mobile application for identifying zoo animals from images using a TensorFlow Lite image classification model.
 
 The application allows users to either take a photo using their phone's camera or select an image from their gallery. The trained machine learning model then analyses the image and displays the predicted animal.
 
 This project combines machine learning, mobile application development, and image classification into a practical user-facing application. The project was developed as a group project, with the model trained using an animal image dataset and subsequently integrated into a Flutter application.
 
-*Video Demo*
-https://youtube.com/shorts/4j9L2KxXOfo 
+*Video Demo:* https://youtube.com/shorts/4j9L2KxXOfo 
 
 *✨ Key Features*
+
 📷 Camera Classification – Take a photo of an animal and receive a prediction.
 
 🖼️ Gallery Classification – Select an existing animal image from the device.
