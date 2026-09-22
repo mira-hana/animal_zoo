@@ -127,7 +127,7 @@ Developed as a collaborative university project involving:
 - TensorFlow Lite model integration
 - Application testing and evaluation
 
-*Note:Full project details can be found in the link below*
+*Note: Full project details can be found in the link below*
 
 https://drive.google.com/file/d/13USzd25qXbKvXso9_osd9YP2nd1oA--j/view?usp=sharing
 
